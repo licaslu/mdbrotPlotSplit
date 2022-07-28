@@ -1,5 +1,5 @@
 # mdbrotPlotSplit
-Mandelbrot Set Plotter with a sectional splitter
+Mandelbrot Set Plotter with a sectional splitter for distributed computing
 
 I made this in Class Pls don't judge.
 
